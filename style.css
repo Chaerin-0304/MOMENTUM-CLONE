@@ -1,0 +1,11 @@
+.hidden {
+    display : none;
+}
+
+form {
+    margin:1000px;
+}
+
+#greeting {
+    margin:1000px;
+}
